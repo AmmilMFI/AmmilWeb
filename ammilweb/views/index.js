@@ -94,7 +94,7 @@ function dpi(){
     let pages = {};
     let profiles ="";
     let colorScheme = new ColorScheme();
-    colorScheme.setPrimaryColor('FF0000');
+    colorScheme.setPrimaryColor('0058a3');
     colorScheme.setSecondaryColor('FFFFFF');
     colorScheme.setTertiaryColor('0058a3');
     colorScheme.setQuaternaryColor('F7F4E4');
