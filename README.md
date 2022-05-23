@@ -23,6 +23,6 @@ Company Website
 # How to use
 
 1. Run `symfony server:start`
-1. Register an admin at `/registerjyfisybfiys`
+1. Register an admin at `/register`
 1. Login  at `/loginjyfisybfiys`
 1. Populate services at `/admin`
