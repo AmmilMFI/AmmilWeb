@@ -5,10 +5,10 @@ namespace controller;
 class Database
 {
 
-    public static $DATABASE_NAME = "ammilmf1_ammilmfi";
+    public static $DATABASE_NAME = "############";
     public static $DATABASE_SERVER = "localhost";
-    public static $DATABASE_PASSWORD= "websiteisgood1@";
-    public static $DATABASE_USERNAME= "ammilmf1_website";
+    public static $DATABASE_PASSWORD= "############";
+    public static $DATABASE_USERNAME= "############";
 
     private static function connectToDB(){
         $servername =Database::$DATABASE_SERVER;
